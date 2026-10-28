@@ -1,3 +1,4 @@
+# Тут завдання 1
 doing=True
 class Task:
     def __init__(self, name, description, deadline, progress=False):
